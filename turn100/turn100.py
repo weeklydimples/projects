@@ -1,0 +1,6 @@
+a = input("what is your name: ")
+print("Your name is " + a)
+b = int(input("Enter your age: "))
+c = int(input("what year is it: "))
+print("hello " + a + " you will be 100 in: ")
+print(100 - b + c)
